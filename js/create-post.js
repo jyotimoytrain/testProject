@@ -1,0 +1,1 @@
+$(".tm-input").tagsManager();
